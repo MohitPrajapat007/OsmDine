@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62842e25-4e59-45c2-8e6d-c7383ed399cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/CartActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/FoodActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/FoodDetailActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/OrderStatusActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/.idea/assetWizardSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/androidTest/java/com/example/salmangeforce/food_order/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/androidTest/java/com/example/osmdine/food_order/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/debug/res/values/google_maps_api.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/debug/res/values/google_maps_api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Adapter/CartAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Adapter/CartAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/CartActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/ChooseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/ChooseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Common/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Common/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Database/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/FoodActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/FoodDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Interface/ItemClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Interface/ItemClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Model/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Model/Rate.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Model/Rate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Model/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Model/Rating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Model/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Model/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/OrderStatusActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Server/FoodActivityServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Server/FoodActivityServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Server/HomeActivityServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Server/HomeActivityServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Server/MainActivityServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Server/MainActivityServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Server/OrderStatusActivityServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Server/OrderStatusActivityServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Server/Services/OrderListenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Server/Services/OrderListenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Server/SignInServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Server/SignInServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Server/TrackingOrderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Server/TrackingOrderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Server/ViewHolders/FoodViewHolderServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Server/ViewHolders/FoodViewHolderServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Server/ViewHolders/MenuViewHolderServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Server/ViewHolders/MenuViewHolderServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Server/ViewHolders/OrderViewHolderServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Server/ViewHolders/OrderViewHolderServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/Services/OrderStatusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/Services/OrderStatusService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/SignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/SignUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/ViewHolders/FoodViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/ViewHolders/FoodViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/ViewHolders/MenuViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/ViewHolders/MenuViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/salmangeforce/food_order/ViewHolders/OrderViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/java/com/example/osmdine/food_order/ViewHolders/OrderViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_cart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_cart.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_choose.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_choose.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_food.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_food.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_food_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_food_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_food_server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_food_server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_main_server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_main_server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_order_status.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_order_status.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_order_status_server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_order_status_server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_sign_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_sign_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_sign_in_server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_sign_in_server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_tracking_order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/activity_tracking_order.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/app_bar_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/app_bar_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/app_bar_home_activity_server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/app_bar_home_activity_server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/content_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/content_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/content_home_activity_server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/layout/content_home_activity_server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/test/java/com/example/salmangeforce/food_order/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoodAppFrontendOnly/app/src/test/java/com/example/osmdine/food_order/ExampleUnitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FoodAppFrontendOnly" />
+  </component>
+  <component name="ProjectId" id="1jVRlykWX1G5RA52n0wXZnohaOW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62842e25-4e59-45c2-8e6d-c7383ed399cd" name="Default Changelist" comment="" />
+      <created>1603887427630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603887427630</updated>
+    </task>
+    <servers />
+  </component>
+</project>
